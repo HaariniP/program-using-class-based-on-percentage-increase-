@@ -19,3 +19,7 @@ public class PercentageIncreaseExample {
         salary.displaySalary();
     }
 }
+
+Output 
+Updated Salary: 55000.0
+
